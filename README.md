@@ -34,3 +34,4 @@ index.html中引入阿里字体图标
 package.json用来存放项目的配置项
 
 vite.config.js用来存放系统文件，添加build对象可用来解决打包包体积过大的问题
+github仓库地址 github.com/lgg555/wind_power
